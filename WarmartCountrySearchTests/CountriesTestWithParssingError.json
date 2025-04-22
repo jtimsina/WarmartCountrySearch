@@ -1,0 +1,19 @@
+[
+    {
+        "capitalX: "Kabul",
+        "codeX": "AF",
+        "currencyX": {
+            "codeX": "AFN",
+            "nameX": "Afghan afghani",
+            "symbolX": "؋"
+        },
+        "flag": "https://restcountries.eu/data/afg.svg",
+        "language": {
+            "code": "ps",
+            "name": "Pashto"
+        },
+        "name": "Afghanistan",
+        "region": "AS"
+    }
+    
+]
